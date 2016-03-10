@@ -1,0 +1,110 @@
+;;; -*- coding: utf-8 -*-
+(("/home/yyz/Dropbox/note/daily.org" . 28810)
+ ("/home/yyz/.emacs.d/.recentf" . 2795)
+ ("/home/yyz/Dropbox/note/2016.org" . 21191)
+ ("/home/yyz/Dropbox/note/struts2.org" . 2692)
+ ("/home/yyz/Dropbox/note/hibernate.org" . 8117)
+ ("/home/yyz/Dropbox/note/spring.org" . 15940)
+ ("/home/yyz/Dropbox/note/json.org" . 560)
+ ("/home/yyz/Dropbox/note/springMVC.org" . 8372)
+ ("/home/yyz/doing.org" . 1386)
+ ("/home/yyz/Dropbox/note/maven.org" . 3069)
+ ("/home/yyz/project/consumerBanking /src/main/java/com/companyname/bank /Util.java" . 145)
+ ("/home/yyz/project/consumerBanking /src/main/java/com/companyname/bank /App.java" . 138)
+ ("/home/yyz/Dropbox/note/2016.org_archive" . 4167)
+ ("/home/yyz/.emacs.d/custom.el" . 2990)
+ ("/home/yyz/Dropbox/note/Mybatis.org" . 182)
+ ("/home/yyz/Dropbox/note/MySQL.org" . 984)
+ ("/home/yyz/.emacs.d/el-get/org-mode/lisp/org-clock.el" . 71385)
+ ("/home/yyz/.emacs.d/core/ome-org.el" . 995)
+ ("/home/yyz/.emacs.d/core/ome-org.org" . 4441)
+ ("/home/yyz/Dropbox/note/java_learn.org" . 57961)
+ ("/home/yyz/.emacs.d/url/cookies" . 361)
+ ("/home/yyz/Dropbox/note/java_reflect.org" . 2117)
+ ("/home/yyz/Dropbox/note/javazhujie.org" . 2340)
+ ("/home/yyz/Dropbox/note/javaweb.org" . 23277)
+ ("/home/yyz/.emacs.d/el-get/yasnippet/snippets/org-mode/src" . 66)
+ ("/home/yyz/Dropbox/note/html.org" . 5964)
+ ("/home/yyz/.emacs.d/init.el" . 3635)
+ ("/home/yyz/.emacs.d/el-get/.loaddefs.el" . 293565)
+ ("/home/yyz/.emacs.d/elpa/google-maps-20130412.1730/google-maps-autoloads.el" . 2562)
+ ("/home/yyz/.emacs.d/el-get/org-mode/doc/"
+  (dired-filename . "/home/yyz/.emacs.d/el-get/org-mode/doc/.."))
+ ("/home/yyz/.emacs.d/el-get/org-mode/etc/"
+  (dired-filename . "/home/yyz/.emacs.d/el-get/org-mode/etc/.."))
+ ("/home/yyz/.emacs.d/el-get/org-mode/lisp/"
+  (dired-filename . "/home/yyz/.emacs.d/el-get/org-mode/lisp/ob-picolisp.el"))
+ ("/home/yyz/.emacs.d/el-get/org-mode/contrib/"
+  (dired-filename . "/home/yyz/.emacs.d/el-get/org-mode/contrib/.."))
+ ("/home/yyz/.emacs.d/el-get/org-mode/"
+  (dired-filename . "/home/yyz/.emacs.d/el-get/org-mode/.."))
+ ("/home/yyz/.emacs.d/el-get/"
+  (dired-filename . "/home/yyz/.emacs.d/el-get/.."))
+ ("/home/yyz/.emacs.d/"
+  (dired-filename . "/home/yyz/.emacs.d/init.el"))
+ ("/home/yyz/workspace/com.imooc.jdbc/src/test/TestAction.java" . 212)
+ ("/home/yyz/.bash_aliases" . 81)
+ ("/home/yyz/.bashrc" . 3257)
+ ("/usr/bin/eclipse" . 97)
+ ("/home/yyz/.emacs.d/modules/ome-java.org" . 2112)
+ ("/home/yyz/.emacs.d/modules/"
+  (dired-filename . "/home/yyz/.emacs.d/modules/ome-java.el"))
+ ("/home/yyz/.emacs.d/modules/ome-java.el" . 917)
+ ("/home/yyz/.emacs.d/ome.org" . 21021)
+ ("/home/yyz/.emacs.d/core/ome-miscs.el" . 1820)
+ ("/home/yyz/.emacs.d/core/"
+  (dired-filename . "/home/yyz/.emacs.d/core/ome-completion.org"))
+ ("/home/yyz/.emacs.d/core/ome-completion.org" . 17484)
+ ("/home/yyz/.emacs.d/elpa/youdao-dictionary-20150914.1444/youdao-dictionary-autoloads.el" . 6626)
+ ("/home/yyz/.emacs.d/elpa/chinese-word-at-point-20150619.938/chinese-word-at-point-autoloads.el" . 772)
+ ("/home/yyz/.emacs.d/core/ome-auto-mode.org" . 2386)
+ ("/home/yyz/.emacs.d/el-get/yasnippet/"
+  (dired-filename . "/home/yyz/.emacs.d/el-get/yasnippet/snippets"))
+ ("/home/yyz/.emacs.d/el-get/yasnippet/snippets/"
+  (dired-filename . "/home/yyz/.emacs.d/el-get/yasnippet/snippets/makefile-mode"))
+ ("/home/yyz/.emacs.d.backup/elpa/yasnippet-20160104.129/"
+  (dired-filename . "/home/yyz/.emacs.d.backup/elpa/yasnippet-20160104.129/.."))
+ ("/home/yyz/.emacs.d.backup/elpa/"
+  (dired-filename . "/home/yyz/.emacs.d.backup/elpa/.."))
+ ("/home/yyz/.emacs.d.backup/"
+  (dired-filename . "/home/yyz/.emacs.d.backup/lisp"))
+ ("/home/yyz/.emacs.d.backup/lisp/"
+  (dired-filename . "/home/yyz/.emacs.d.backup/lisp/init-modeline.el"))
+ ("/home/yyz/.emacs.d/core/ome-completion.el" . 5694)
+ ("/home/yyz/.emacs.d/core/ome-gui.el" . 2097)
+ ("/home/yyz/.emacs.d.backup/lisp/init-modeline.el" . 1642)
+ ("/home/yyz/.emacs.d/el-get/evil-org-mode/evil-org.el" . 5056)
+ ("/home/yyz/.emacs.d/core/ome-advanced.el" . 1724)
+ ("/home/yyz/.emacs.d/el-get/window-numbering/README.md" . 5)
+ ("/home/yyz/.emacs.d/el-get/window-numbering/window-numbering.el" . 1775)
+ ("/home/yyz/.emacs.d/el-get/window-numbering/"
+  (dired-filename . "/home/yyz/.emacs.d/el-get/window-numbering/.."))
+ ("/home/yyz/.eclipse/"
+  (dired-filename . "/home/yyz/.eclipse/.."))
+ ("/home/yyz/"
+  (dired-filename . "/home/yyz/.emacs.d"))
+ ("/home/yyz/.emacs.d/el-get/evil-org-mode/"
+  (dired-filename . "/home/yyz/.emacs.d/el-get/evil-org-mode/evil-org.el"))
+ ("/home/yyz/.wine/system.reg" . 2186630)
+ ("/home/yyz/.profile" . 1146)
+ ("/etc/profile" . 1006)
+ ("/usr/local/share/emacs/24.5/etc/COPYING" . 463)
+ ("/home/yyz/.emacs.d.backup/init.el" . 6874)
+ ("/home/yyz/.emacs.d.backup1/init.el" . 3188)
+ ("/home/yyz/.emacs.d/el-get/evil/evil-commands.el" . 1655)
+ ("/home/yyz/.emacs.d/el-get/evil/evil-command-window.el" . 5780)
+ ("/home/yyz/.emacs.d/elpa/rainbow-mode-0.12/rainbow-mode-autoloads.el" . 482)
+ ("/home/yyz/Dropbox/"
+  (dired-filename . "/home/yyz/Dropbox/note"))
+ ("/home/yyz/Dropbox/note/"
+  (dired-filename . "/home/yyz/Dropbox/note/2016.org"))
+ ("/home/yyz/.emacs.d/el-get/helm/"
+  (dired-filename . "/home/yyz/.emacs.d/el-get/helm/.."))
+ ("/home/yyz/.emacs.d/el-get/projectile/"
+  (dired-filename . "/home/yyz/.emacs.d/el-get/projectile/projectile.el"))
+ ("/home/yyz/.emacs.d/core/ome-gui.org" . 6229)
+ ("/home/yyz/.emacs.d/el-get/helm/helm.el" . 235193)
+ ("/home/yyz/Dropbox/0002采铜 的知乎回答集锦.mobi" . 214)
+ ("/home/yyz/.emacs.d/el-get/org-mode/lisp/org-loaddefs.el" . 104090)
+ ("/home/yyz/.emacs.d/el-get/org-mode/contrib/lisp/org-loaddefs.el" . 2130)
+ ("/home/yyz/.emacs.d/elpa/let-alist-1.0.4/let-alist-autoloads.el" . 1251))
